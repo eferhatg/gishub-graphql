@@ -1,0 +1,38 @@
+
+
+.search-options { z-index: 2200 !important; }
+.search-select{
+  width: 100%;
+  margin-bottom: 10px !important;
+  margin-top: 10px !important;
+}
+.status {
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.status .ant-spin {
+  margin: auto;
+  width: 100%;
+}
+.display-none{
+  display: none;
+}
+.react-autosuggest__suggestions-list{
+  list-style-type: none;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+.react-autosuggest__suggestion{
+  margin: 3px 15px 3px 3px;
+  padding: 5px 2px;
+  border-width: 0px 0px 1px 0px;
+  border-style: solid;
+  border-color: lightgray;
+}
+
+.react-autosuggest__container .ant-input{
+  margin-bottom: 10px;
+}
+
